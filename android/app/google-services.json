@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738911460498",
+    "project_id": "mobliapp-8283e",
+    "storage_bucket": "mobliapp-8283e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738911460498:android:f139c03f217cb35e3b9a4b",
+        "android_client_info": {
+          "package_name": "com.example.lab06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738911460498-5svn06nc51r7kmvtpbidilp16kekspit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdH58caXTWpPUS2pKRnwHo9BrgLQHj-mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738911460498-5svn06nc51r7kmvtpbidilp16kekspit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
